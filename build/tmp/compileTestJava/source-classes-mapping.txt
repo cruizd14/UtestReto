@@ -1,0 +1,4 @@
+co/com/bancolombia/certification/utestreto/stepdefinitions/RegisterUserStepDefinitions.java
+ co.com.bancolombia.certification.utestreto.stepdefinitions.RegisterUserStepDefinitions
+co/com/bancolombia/certification/utestreto/runner/RegisterUser.java
+ co.com.bancolombia.certification.utestreto.runner.RegisterUser

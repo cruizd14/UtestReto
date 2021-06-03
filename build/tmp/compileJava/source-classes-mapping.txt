@@ -1,0 +1,12 @@
+co/com/bancolombia/certification/utestreto/userinterfaces/Personal.java
+ co.com.bancolombia.certification.utestreto.userinterfaces.Personal
+co/com/bancolombia/certification/utestreto/userinterfaces/Devices.java
+ co.com.bancolombia.certification.utestreto.userinterfaces.Devices
+co/com/bancolombia/certification/utestreto/task/RegisterUserReto.java
+ co.com.bancolombia.certification.utestreto.task.RegisterUserReto
+co/com/bancolombia/certification/utestreto/userinterfaces/Home.java
+ co.com.bancolombia.certification.utestreto.userinterfaces.Home
+co/com/bancolombia/certification/utestreto/userinterfaces/Location.java
+ co.com.bancolombia.certification.utestreto.userinterfaces.Location
+co/com/bancolombia/certification/utestreto/userinterfaces/Complete.java
+ co.com.bancolombia.certification.utestreto.userinterfaces.Complete
